@@ -22,3 +22,9 @@ Strong **Emphasis** with asterisks.
 
 Weak _emphasis_ with underscores.  
 Strong __Emphasis__ with underscores.  
+
+# Unordered lists
+* Eat
++ Sleep
+- Code
+* ### Repeat
