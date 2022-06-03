@@ -24,7 +24,13 @@ Weak _emphasis_ with underscores.
 Strong __Emphasis__ with underscores.  
 
 # Unordered lists
-* Eat
-+ ### Sleep
+* ## Eat
++ ## Sleep
 - ## Code
-* # Repeat
+* ## Repeat
+
+# Ordered lists
+1. Mouse
+2. Keyboard
+3. Monitor
+
