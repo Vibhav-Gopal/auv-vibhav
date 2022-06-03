@@ -115,7 +115,7 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
     }
     ```
 
-7. Contact me @ <vibhavgopal2004@gmail.com "Vibhav-Gopal">
+7. Contact me @ <vibhavgopal2004@gmail.com>
 
 
 
