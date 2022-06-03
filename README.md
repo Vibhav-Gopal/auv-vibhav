@@ -91,6 +91,19 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
     ```
     *Weak emphasis*
     ```
+    * _Weak emphasis_ using underscores
+    ```
+    _Weak emphasis_
+    ```
+    * **Strong emphasis** using double asterisks
+    ```
+    **Strong emphasis**
+    ```
+    * __Strong emphasis__ using double underscores
+    ```
+    __Strong emphasis__
+    ```
+
 
 
 
