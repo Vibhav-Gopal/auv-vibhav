@@ -17,8 +17,8 @@ Second level header
 > ## Smaller header
 
 # Emphasis
-Weak *emphasis* with asterisks
-Strong **Emphasis** with asterisks
+Weak *emphasis* with asterisks.
+Strong **Emphasis** with asterisks.
 
-Weak _emohasis_ with underscores
-Strong __Emphasis__ with underscores
+Weak _emphasis_ with underscores.
+Strong __Emphasis__ with underscores.
