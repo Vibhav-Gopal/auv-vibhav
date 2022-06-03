@@ -25,6 +25,6 @@ Strong __Emphasis__ with underscores.
 
 # Unordered lists
 * Eat
-+ # Sleep
++ ### Sleep
 - ## Code
-* ### Repeat
+* # Repeat
