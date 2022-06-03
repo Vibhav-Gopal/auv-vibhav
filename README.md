@@ -50,5 +50,7 @@ This is definitely not a [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
     import life
     time.sleep(5)
     life.giveup()
+a *** nb
+
 
 
