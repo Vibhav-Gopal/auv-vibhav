@@ -62,7 +62,16 @@ Words after horizontal rule
 <vibhavgopal2004@gmail.com>
 
 * * *
-# My experience with MD
+# Me and md
+Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown is used to generate html codes for webpages and emails so it looks a bit good, the raw code in html and stuff is unreadable compared to markdown.\Variety of features in markdown such as\
+1. Different Header sizes
+    * # Size 1
+    `# Size 1`
+    * ## Size 2
+    ` ## Size 2`
+    * ### Size 3
+    `### Size 3`
+
 
 
 
