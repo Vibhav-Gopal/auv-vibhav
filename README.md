@@ -55,6 +55,7 @@ This is definitely not a [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Words after horizontal rule
 # Code block with back ticks
 `printf("Hello World\n")`
+`` `foo` ``
 
 
 
