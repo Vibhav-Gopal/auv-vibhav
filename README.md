@@ -56,6 +56,7 @@ This is definitely not a [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 Words after horizontal rule
 # Code block with back ticks
 `printf("Hello World\n")`\
+
 `` `foo` ``
 
 # Contact me
@@ -105,6 +106,9 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
     ```
 5. Hyperlinks
     * Link to my [YouTube Channel](https://www.youtube.com/vibhavgopal)
+
+6. Codeblocks
+    #include<stdio.h>
 
 
 
