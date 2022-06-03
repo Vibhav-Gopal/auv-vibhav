@@ -13,6 +13,8 @@ Second level header
 >
 > end
 
+>
+
 > # Header 
 > ## Smaller header
 
@@ -42,4 +44,11 @@ This is definitely not a [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # Blink tag?
 `<blink>`
-<blink>
+
+# Code block using indentation
+    import time
+    import life
+    time.sleep(5)
+    life.giveup()
+
+
