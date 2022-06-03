@@ -81,10 +81,16 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
     * Second level header
     ```
     second level header
+    -------------------
     ```
 3. Blockquotes and nested blockquotes
     * >This is a blockquote
       >>and this is a blockquote within one
+4. Different levels of emphasis in text
+    * *Weak emphasis* using asterisks
+    ```
+    *Weak emphasis*
+    ```
 
 
 
