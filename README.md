@@ -34,3 +34,5 @@ Strong __Emphasis__ with underscores.
 2. Keyboard
 3. Monitor
 
+# Hyperlinks
+This is definitely not a [Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
