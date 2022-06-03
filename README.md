@@ -1,2 +1,1 @@
-# auv-vibhav
-Repo for AUV society work - IIITDM 
+# MarkDown Language
