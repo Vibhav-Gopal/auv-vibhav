@@ -1,3 +1,4 @@
 The problem statement for question 4
 Use a while loop to print a number pyramid of specified size by user
 Use a for loop to print the name of every file in the Current working directory ending with the extension ".sh"
+Use a while loop and an until loop to print all numbers upto a number specified by the user
