@@ -1,0 +1,2 @@
+start address: 0x50, func1 address: 0x50
+end address: 0x7F, func2 address: 0xB0
