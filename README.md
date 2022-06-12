@@ -117,6 +117,13 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
 
 7. Contact me @ <vibhavgopal2004@gmail.com>
 
+* * *
+# Screenshots for Q3 and Q4, Bash Scripting
+## Question 3
+![ques3](https://github.com/Vibhav-Gopal/auv-vibhav/blob/master/bash-scripting/images/Screenshot%20(661).png)
+
+## Question 4
+![ques4](https://github.com/Vibhav-Gopal/auv-vibhav/blob/master/bash-scripting/images/Screenshot%20(662).png)
 
 
 
