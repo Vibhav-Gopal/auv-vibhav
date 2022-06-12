@@ -18,3 +18,21 @@ for FILE in ./*.sh
 do
    echo $FILE
 done
+
+a=0
+
+read -p "Upto what number to print " num
+
+until [ ! $a -lt $num ]
+do
+   echo $a
+   a=`expr $a + 1`
+done
+
+a=0
+
+while [  "$a" -lt "$num" ]
+do
+   echo $a
+   a=`expr $a + 1`
+done
