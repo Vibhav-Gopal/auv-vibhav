@@ -120,10 +120,10 @@ Hello, my name's Vibhav. Learning markdown was good.\From what i get, markdown i
 * * *
 # Screenshots for Q3 and Q4, Bash Scripting
 ## Question 3
-![ques3](https://github.com/Vibhav-Gopal/auv-vibhav/blob/master/bash-scripting/images/Screenshot%20(661).png)
-
+![ques3](https://github.com/Vibhav-Gopal/auv-vibhav/blob/main/bash-scripting/images/Screenshot%20(661).png)
+https://github.com/Vibhav-Gopal/auv-vibhav/blob/main/bash-scripting/images/Screenshot%20(661).png
 ## Question 4
-![ques4](https://github.com/Vibhav-Gopal/auv-vibhav/blob/master/bash-scripting/images/Screenshot%20(662).png)
+![ques4](https://github.com/Vibhav-Gopal/auv-vibhav/blob/main/bash-scripting/images/Screenshot%20(662).png)
 
 
 
