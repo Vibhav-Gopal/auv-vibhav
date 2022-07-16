@@ -18,10 +18,7 @@ int main(int argc, char **argv){
     int count = 0;
         while (ros::ok()){
             std_msgs::String msg;
-            /*std::stringstream ss;
-            ss << "hello world " << count;
-            msg.data = ss.str();
-            ROS_INFO("%s", msg.data.c_str());*/
+
             std::string mess;
             std::cout<<"Ready to receive message"<<endl;
             std::getline (std::cin,mess);

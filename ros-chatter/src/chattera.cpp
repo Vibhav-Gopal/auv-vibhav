@@ -17,18 +17,15 @@ int main(int argc, char **argv){
     cout<<"Chatter has been initiated"<<endl;
     int count = 0;
         while (ros::ok()){
-            std_msgs::String msg;
-            /*std::stringstream ss;
-            ss << "hello world " << count;
-            msg.data = ss.str();
-            ROS_INFO("%s", msg.data.c_str());*/
+            std_msgs::String msg; //Create a msg object of type string
+
             std::string mess;
             std::cout<<"Ready to receive message"<<endl;
-            std::getline (std::cin,mess);
+            std::getline (std::cin,mess); //Read input and store it in the data of the message object
             cout<<endl;
             cout<<"\""<<mess<<"\""<<" has been sent"<<endl;
             msg.data = mess;
-		chatter_pub.publish(msg);
+		chatter_pub.publish(msg); //Publish the msg object
 
 		ros::spinOnce();
 
